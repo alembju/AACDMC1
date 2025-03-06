@@ -1,0 +1,1 @@
+export const BASE_URL=`https://server-u5nt.onrender.com`
