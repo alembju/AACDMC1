@@ -1,1 +1,1 @@
-export const BASE_URL=`https://server-u5nt.onrender.com`
+export const BASE_URL=`https://aacdmc1-server.onrender.com`
