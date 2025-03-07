@@ -32,6 +32,7 @@ function Home() {
   const [dataL, setDataL] = useState([]);
   const [dataR, setDataR] = useState([]);
   const [searchQuery,setSearchQuery]=useState("")
+ const [data, setData] = useState([]);
 
   useEffect(() => {
     getAllMeseales();
